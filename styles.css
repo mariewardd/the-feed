@@ -99,3 +99,11 @@ img{
     grid-column-start: 6;
     grid-column-end: 7;
 }
+div{
+    background-color:#a9c68a;
+    color:rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0;
+}
+
+
